@@ -10,7 +10,7 @@
 The employee of a company logs in to companies transport service website with his/her credentials. Then he/she can select pick up and drop points and provide the contact number. Then an SMS comes saying that the ride is booked successfully. They can also apply for leave in case very urgent. An SMS comes confirming that the leave application is sent and will reach out in 24 hours.
 
 ## Installation
-First create an account at [Vonage.com](https://dashboard.nexmo.com/sign-up) \
+Create an account at [Vonage.com](https://dashboard.nexmo.com/sign-up) \
 Get the API Key ad API Secret Key from the [Dashboard](https://dashboard.nexmo.com/) of the website.\
 Now clone the following repository :\
 https://github.com/Rakesh-Naidu/employee-transport-management-system-login-page \
