@@ -3,7 +3,7 @@
 ## Table of Contents
   * [About the project](#about-the-project)
   * [Installation](#installation)
-  * [About the dataset](#about-the-dataset)
+  * [Demo](#demo)
   * [Installation](#installation)
   * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
@@ -19,17 +19,22 @@ Get the API Key ad API Secret Key from the [Dashboard](https://dashboard.nexmo.c
 Now clone the following repository :\
 https://github.com/Rakesh-Naidu/employee-transport-management-system-login-page \
 Now in the project directory create an ``.env file`` and store the API Key and API Secret Key with the variable names shown below.
-/////////////////////////////////////////\
-In the project directory, run the following commands
+![](https://user-images.githubusercontent.com/44801151/116256735-15a28100-a791-11eb-87cb-d1a272e32487.png)
+Now in the project directory, run the following commands
 ### ```npm install```
 This command installs all the dependencies required for this project.
 ### ```npm start```
 This command runs the app in localhost. \
 It prints ``listening at 3000`` to confirm that.\
 Keep the app running.
-## About the dataset
-This dataset was derived from the 1990 U.S. census, using one row per census block group. A block group is the smallest geographical unit for which the U.S Census Bureau publishes sample data (a block group typically has a population of 600 to 3,000 people).
 
+## Demo
+#### Website Link : https://rakesh-naidu.github.io/employee-transport-management-system-home-page/
+#### Email : user@gmail.com
+#### Password : Password@123
+![](https://user-images.githubusercontent.com/44801151/116257616-d0cb1a00-a791-11eb-8a75-12ccf0c87be3.png)
+![](https://user-images.githubusercontent.com/44801151/116257632-d32d7400-a791-11eb-9795-65c28b1774e5.png)
+### ```After pressing the sign in button localhost:3000 will be opened. So make sure u start the app by running npm start in command line of project directory```
 ## Installation
 The Code is written in Python 3.6.10. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
 ```bash
