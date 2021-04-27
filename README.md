@@ -30,10 +30,10 @@ Keep the app running.
 ##### ```Email : user@gmail.com``` 
 ##### ```Password : Password@123```
 ![](https://user-images.githubusercontent.com/44801151/116257632-d32d7400-a791-11eb-9795-65c28b1774e5.png)
-### Note: After pressing the sign in button the page redirects to localhost:3000. So make sure u start the app by running npm start in command line of project directory.
+### ```Note:``` After pressing the sign in button the page redirects to localhost:3000. So make sure u start the app by running npm start in command line of project directory.
 ![](https://user-images.githubusercontent.com/44801151/116286595-07625e00-a7ad-11eb-874c-5eea6398f4ed.png)
 ![](https://user-images.githubusercontent.com/44801151/116286837-51e3da80-a7ad-11eb-9baa-4066689564f8.png)
-### Note: Give the details and enter the mobile number which is linked with Vonage account
+### ```Note:``` Give the details and enter the mobile number which is linked with Vonage account
 ![](https://user-images.githubusercontent.com/44801151/116288527-3b3e8300-a7af-11eb-97a5-501e7c6e16f1.jpg)
 
 ## Technologies Used
