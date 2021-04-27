@@ -7,8 +7,7 @@
   * [Technologies used](#technologies-used)
 
 ## About the project
-In this project the employee of a comapany will be able to login to companies transport service website able to book cabs and apply for leave.
-An SMS will be sent to the user confirming that the cab is booked and Leave application is sent.
+The employee of a company logs in to companies transport service website with his/her credentials. Then he/she can select pick up and drop points and provide the contact number. Then an SMS comes saying that the ride is booked successfully. They can also apply for leave in case very urgent. An SMS comes confirming that the leave application is sent and will reach out in 24 hours.
 
 ## Installation
 First create an account at [Vonage.com](https://dashboard.nexmo.com/sign-up) \
@@ -27,9 +26,9 @@ Keep the app running.
 
 ## Demo
 Website Link : https://rakesh-naidu.github.io/employee-transport-management-system-home-page/
+![](https://user-images.githubusercontent.com/44801151/116257616-d0cb1a00-a791-11eb-8a75-12ccf0c87be3.png)
 ##### ```Email : user@gmail.com``` 
 ##### ```Password : Password@123```
-![](https://user-images.githubusercontent.com/44801151/116257616-d0cb1a00-a791-11eb-8a75-12ccf0c87be3.png)
 ![](https://user-images.githubusercontent.com/44801151/116257632-d32d7400-a791-11eb-9795-65c28b1774e5.png)
 ### Note: After pressing the sign in button the page redirects to localhost:3000. So make sure u start the app by running npm start in command line of project directory.
 ![](https://user-images.githubusercontent.com/44801151/116286595-07625e00-a7ad-11eb-874c-5eea6398f4ed.png)
