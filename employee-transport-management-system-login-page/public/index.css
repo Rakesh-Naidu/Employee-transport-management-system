@@ -1,0 +1,113 @@
+body{
+  font-family: 'Work Sans', sans-serif;
+  }
+  /* header */
+  #header{
+    padding: 3% 15% 3% 15%;
+    background-color: #ff4872;
+  }
+  .title{
+    font-size: 30px;
+    font-family: 'Noto Sans KR', sans-serif;
+  }
+  .title:hover{
+    color: #1b2021;
+  }
+  .nav-item{
+    font-size: 23px;
+    font-family: 'Work Sans', sans-serif;
+  }
+  .navbar-brand{
+    color: #fff;
+  }
+  .nav-link{
+    color: #fff;
+  }
+  .nav-link:hover{
+    color: #1b2021;
+  }
+  .navbar-toggler{
+    border: #fff solid;
+  }
+  .navbar-toggler-icon{
+    border-radius: 100%;
+    font-size: small;
+    border: #fff solid;
+    text-align: center;
+  }
+  
+  /* trip  */
+  #trip{
+    padding: 3% 15% 7% 15%;
+    color: #fff;
+    background-color: #ff4872;
+  }
+  .text1{
+    padding: 8rem 2rem;
+  }
+  .text1-h1{
+    padding: 5%;
+  }
+  .lb:hover{
+    color: #1b2021;
+  }
+  .form1{
+    padding: 3%;
+    border: #fff solid;
+  }
+  .list{
+    font-size: 22px;
+    list-style: none;
+    padding: 0; 
+    margin: 0; 
+    text-align: center;
+  }
+  .list-item{
+    font-size: 20px;
+  }
+
+  /* leave  */
+  #leave{
+    padding: 7% 15%;
+  }
+  .text2{
+    padding: 2rem 0rem;
+  }
+  .form2{
+    padding: 3%;
+    border: solid gray;
+  }
+  .text2-h1{
+    padding: 5%;
+  }
+  .list1{
+    font-size: 22px;
+    list-style: none;
+    padding: 0; 
+    margin: 0; 
+    text-align: center;
+    padding: 0 2rem 2rem 2rem;
+  }
+  .list-item1{
+    font-size: 22px;
+  }
+  
+  /* footer  */
+  
+  #main-footer{
+    background-color: #ff4872;
+    text-align: center;
+    padding: 3% 15%;
+    font-size: large;
+  }
+  .copyright{
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+  }
+  .not{
+    color:#fff;
+  }
+  .last{
+    color: #fff;
+  }
