@@ -16,7 +16,6 @@ Get the API Key ad API Secret Key from the [Dashboard](https://dashboard.nexmo.c
 Now clone the following repository :\
 https://github.com/Rakesh-Naidu/employee-transport-management-system-login-page \
 Now in the project directory create an ``.env file`` and store the API Key and API Secret Key with the variable names shown below. \
- \
 ![](https://user-images.githubusercontent.com/44801151/116256735-15a28100-a791-11eb-87cb-d1a272e32487.png)
 Now in the project directory, run the following commands
 ### ```npm install```
@@ -27,7 +26,7 @@ It prints ``listening at 3000`` to confirm that.\
 Keep the app running.
 
 ## Demo
-Website Link : https://rakesh-naidu.github.io/employee-transport-management-system-home-page/ \
+Website Link : https://rakesh-naidu.github.io/employee-transport-management-system-home-page/
 ##### ```Email : user@gmail.com``` 
 ##### ```Password : Password@123```
 ![](https://user-images.githubusercontent.com/44801151/116257616-d0cb1a00-a791-11eb-8a75-12ccf0c87be3.png)
