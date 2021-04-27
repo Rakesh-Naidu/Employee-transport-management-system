@@ -39,7 +39,6 @@ Keep the app running.
 
 ## Technologies Used
 
-![](https://forthebadge.com/images/badges/made-with-python.svg)
-
-[<img target="_blank" src="https://img.flaticon.com/icons/png/512/174/174854.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" width=170>](https://developer.mozilla.org/en-US/docs/Web/HTML) \
-[<img target="_blank" src="https://img.flaticon.com/icons/png/512/732/732190.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" width=280>](https://developer.mozilla.org/en-US/docs/Web/CSS) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
+[<img target="_blank" src="https://img.flaticon.com/icons/png/512/174/174854.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" width=170>](https://developer.mozilla.org/en-US/docs/Web/HTML) [<img target="_blank" src="https://img.flaticon.com/icons/png/512/1348/1348052.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" width=200>](https://getbootstrap.com/) \
+[<img target="_blank" src="https://img.flaticon.com/icons/png/512/732/732190.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" width=280>](https://developer.mozilla.org/en-US/docs/Web/CSS) [<img target="_blank" src="https://img.flaticon.com/icons/png/512/919/919825.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" width=200>](https://nodejs.org/en/) \
+[<img target="_blank" src="https://image.flaticon.com/icons/png/512/919/919828.png" width=200>](https://www.w3schools.com/js/DEFAULT.asp) 
