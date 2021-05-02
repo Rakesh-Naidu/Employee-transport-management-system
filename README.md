@@ -13,7 +13,7 @@ The employee of a company logs in to companies transport service website with hi
 Create an account at [Vonage.com](https://dashboard.nexmo.com/sign-up) \
 Get the API Key ad API Secret Key from the [Dashboard](https://dashboard.nexmo.com/) of the website.\
 Now clone the following repository :\
-https://github.com/Rakesh-Naidu/Employee-transport-management-system-user-page.git \
+https://github.com/Rakesh-Naidu/Employee-transport-management-system-user-page \
 Now in the project directory create an ``.env file`` and store the API Key and API Secret Key with the variable names shown below. \
 ![](https://user-images.githubusercontent.com/44801151/116256735-15a28100-a791-11eb-87cb-d1a272e32487.png)
 Now in the project directory, run the following commands
