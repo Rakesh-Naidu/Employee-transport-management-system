@@ -35,13 +35,23 @@ Keep the app running.
 ### About Page
 ![](https://user-images.githubusercontent.com/44801151/116815476-5af0f500-ab7b-11eb-913c-8756443b3a81.png)
 ![](https://user-images.githubusercontent.com/44801151/116815539-a3a8ae00-ab7b-11eb-9927-06fdf2f534fb.png)
-
+### Careers Page
+![](https://user-images.githubusercontent.com/44801151/116815682-482af000-ab7c-11eb-9d25-6804d15e428e.png)
+![](https://user-images.githubusercontent.com/44801151/116815744-87594100-ab7c-11eb-97d1-26a04c478bb5.png)
+### Contact-us Page
+![](https://user-images.githubusercontent.com/44801151/116815793-c8e9ec00-ab7c-11eb-9253-84f6791b4abc.png)
+![](https://user-images.githubusercontent.com/44801151/116815819-edde5f00-ab7c-11eb-8ae9-6713d4576d1a.png)
+### Sign Up Page
+![](https://user-images.githubusercontent.com/44801151/116815867-31d16400-ab7d-11eb-90a4-58a42c27fbce.png)
+![](https://user-images.githubusercontent.com/44801151/116815910-69401080-ab7d-11eb-8fcc-e9f18066b157.png)
+### Now goto Login Page and login using the following details.
 ### ```Email : user@gmail.com``` 
 ### ```Password : Password@123```
-![](https://user-images.githubusercontent.com/44801151/116257632-d32d7400-a791-11eb-9795-65c28b1774e5.png)
 ### ```Note:``` After pressing the sign in button the page redirects to localhost:3000. So make sure u start the app by running npm start in command line of project directory.
-![](https://user-images.githubusercontent.com/44801151/116286595-07625e00-a7ad-11eb-874c-5eea6398f4ed.png)
-![](https://user-images.githubusercontent.com/44801151/116286837-51e3da80-a7ad-11eb-9baa-4066689564f8.png)
+![](https://user-images.githubusercontent.com/44801151/116816135-5aa62900-ab7e-11eb-99fe-3d331f41a80a.png)
+![](https://user-images.githubusercontent.com/44801151/116816288-fafc4d80-ab7e-11eb-9875-c30ce59ce9a7.png)
+![](https://user-images.githubusercontent.com/44801151/116816341-2e3edc80-ab7f-11eb-886f-d6b44f276773.png)
+![](https://user-images.githubusercontent.com/44801151/116816371-4adb1480-ab7f-11eb-9ca4-b3956c819fdc.png)
 ### ```Note:``` Give the details and enter the mobile number which is linked with Vonage account
 ![](https://user-images.githubusercontent.com/44801151/116288527-3b3e8300-a7af-11eb-97a5-501e7c6e16f1.jpg)
 
