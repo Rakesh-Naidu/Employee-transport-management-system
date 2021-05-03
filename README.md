@@ -27,31 +27,37 @@ Keep the app running.
 ## Demo
 ### Website Link : https://rakesh-naidu.github.io/Employee-transport-management-system-home-page/
 ### Home Page
-![](https://user-images.githubusercontent.com/44801151/116815224-33e5f380-ab7a-11eb-83ce-9b291d313824.png)
+![](https://user-images.githubusercontent.com/44801151/116856420-c2a94d80-ac18-11eb-9d2e-46fbff235df8.png)
 ### Login Page
-![](https://user-images.githubusercontent.com/44801151/116815296-74de0800-ab7a-11eb-9598-5845645ee25a.png)
-![](https://user-images.githubusercontent.com/44801151/116815378-dc945300-ab7a-11eb-8651-978badfa4ad2.png)
-![](https://user-images.githubusercontent.com/44801151/116815425-241adf00-ab7b-11eb-9bb8-8f1a20069842.png)
+![](https://user-images.githubusercontent.com/44801151/116856486-d785e100-ac18-11eb-8e89-8a2d8dfcb39f.png)
+![](https://user-images.githubusercontent.com/44801151/116856498-dce32b80-ac18-11eb-98f3-0a880710a71c.png)
+![](https://user-images.githubusercontent.com/44801151/116856525-ea001a80-ac18-11eb-862f-b952eeb5a62b.png)
+![](https://user-images.githubusercontent.com/44801151/116856532-ecfb0b00-ac18-11eb-9885-fb7b2a50b6a8.png)
+![](https://user-images.githubusercontent.com/44801151/116856541-ef5d6500-ac18-11eb-9235-d1c534f27af2.png)
 ### About Page
-![](https://user-images.githubusercontent.com/44801151/116815476-5af0f500-ab7b-11eb-913c-8756443b3a81.png)
-![](https://user-images.githubusercontent.com/44801151/116815539-a3a8ae00-ab7b-11eb-9927-06fdf2f534fb.png)
+![](https://user-images.githubusercontent.com/44801151/116856625-187df580-ac19-11eb-808b-7b3970819981.png)
+![](https://user-images.githubusercontent.com/44801151/116856666-292e6b80-ac19-11eb-9e90-3e68848774db.png)
+![](https://user-images.githubusercontent.com/44801151/116856675-2c295c00-ac19-11eb-9a49-3dc533347b48.png)
 ### Careers Page
-![](https://user-images.githubusercontent.com/44801151/116815682-482af000-ab7c-11eb-9d25-6804d15e428e.png)
-![](https://user-images.githubusercontent.com/44801151/116815744-87594100-ab7c-11eb-97d1-26a04c478bb5.png)
+![](https://user-images.githubusercontent.com/44801151/116856719-3b100e80-ac19-11eb-93b8-a954c5c995ba.png)
+![](https://user-images.githubusercontent.com/44801151/116856735-3ea39580-ac19-11eb-8ddc-168085133e75.png)
+![](https://user-images.githubusercontent.com/44801151/116856740-419e8600-ac19-11eb-96a3-779a0a798fdc.png)
 ### Contact-us Page
-![](https://user-images.githubusercontent.com/44801151/116815793-c8e9ec00-ab7c-11eb-9253-84f6791b4abc.png)
-![](https://user-images.githubusercontent.com/44801151/116815819-edde5f00-ab7c-11eb-8ae9-6713d4576d1a.png)
+![](https://user-images.githubusercontent.com/44801151/116856782-51b66580-ac19-11eb-89a2-436cce90e5a6.png)
+![](https://user-images.githubusercontent.com/44801151/116856789-5418bf80-ac19-11eb-8a68-6a847dd3eae8.png)
+![](https://user-images.githubusercontent.com/44801151/116856803-5aa73700-ac19-11eb-822d-0a2d277f06fb.png)
 ### Sign Up Page
-![](https://user-images.githubusercontent.com/44801151/116815867-31d16400-ab7d-11eb-90a4-58a42c27fbce.png)
-![](https://user-images.githubusercontent.com/44801151/116815910-69401080-ab7d-11eb-8fcc-e9f18066b157.png)
+![](https://user-images.githubusercontent.com/44801151/116856830-672b8f80-ac19-11eb-868a-a021c4c74001.png)
+![](https://user-images.githubusercontent.com/44801151/116856847-6d217080-ac19-11eb-8427-5edd748a8a25.png)
+![](https://user-images.githubusercontent.com/44801151/116856853-6eeb3400-ac19-11eb-89f9-d7642208494f.png)
 ### Now goto Login Page and login using the following details.
 ### ```Email : user@gmail.com``` 
 ### ```Password : Password@123```
 ### ```Note:``` After pressing the sign in button the page redirects to localhost:3000. So make sure u start the app by running npm start in command line of project directory.
-![](https://user-images.githubusercontent.com/44801151/116816135-5aa62900-ab7e-11eb-99fe-3d331f41a80a.png)
-![](https://user-images.githubusercontent.com/44801151/116816288-fafc4d80-ab7e-11eb-9875-c30ce59ce9a7.png)
-![](https://user-images.githubusercontent.com/44801151/116816341-2e3edc80-ab7f-11eb-886f-d6b44f276773.png)
-![](https://user-images.githubusercontent.com/44801151/116816371-4adb1480-ab7f-11eb-9ca4-b3956c819fdc.png)
+![](https://user-images.githubusercontent.com/44801151/116856915-8a563f00-ac19-11eb-8057-bc0de66ce683.png)
+![](https://user-images.githubusercontent.com/44801151/116856923-8d512f80-ac19-11eb-9bbf-99d9958f548a.png)
+![](https://user-images.githubusercontent.com/44801151/116856928-8fb38980-ac19-11eb-8bbc-1ff28446b1d3.png)
+![](https://user-images.githubusercontent.com/44801151/116856936-9510d400-ac19-11eb-9af9-fc4d9ed3463b.png)
 ### ```Note:``` Give the details and enter the mobile number which is linked with Vonage account
 ![](https://user-images.githubusercontent.com/44801151/116288527-3b3e8300-a7af-11eb-97a5-501e7c6e16f1.jpg)
 
