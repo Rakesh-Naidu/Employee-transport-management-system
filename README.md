@@ -53,7 +53,7 @@ Keep the app running.
 ### Now goto Login Page and login using the following details.
 ### ```Email : user@gmail.com``` 
 ### ```Password : Password@123```
-### ```Note:``` After pressing the sign in button the page redirects to localhost:3000. So make sure u start the app by running npm start in command line of project directory.
+### ```Note:``` After pressing the sign in button the page redirects to localhost:3000. So make sure you start the app by running npm start in command line of project directory.
 ![](https://user-images.githubusercontent.com/44801151/116856915-8a563f00-ac19-11eb-8057-bc0de66ce683.png)
 ![](https://user-images.githubusercontent.com/44801151/116856923-8d512f80-ac19-11eb-9bbf-99d9958f548a.png)
 ![](https://user-images.githubusercontent.com/44801151/116856928-8fb38980-ac19-11eb-8bbc-1ff28446b1d3.png)
